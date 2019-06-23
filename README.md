@@ -1,2 +1,2 @@
-# interview_coding_exercises
-Repository with solutions for interview problems
+# Interview Coding Exercises
+Repository with solutions for interview coding interview problems solved with JS.
